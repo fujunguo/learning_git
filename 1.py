@@ -4,4 +4,3 @@ if birth<2000:
 else:
 	print('00后')
 #Creating a new branch is quick
-#change 2
